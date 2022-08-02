@@ -38,4 +38,4 @@ This script allows you to add a watermark or logo to images in a specified folde
     * more messages to interact with user and error prompts what user must corects and what inputs are not correct.
 
 
-![Example](C:/Users/Neo/Desktop/84 watermark images/4.jpg?raw=true "Title")
+![Example](https://github.com/cheroboolo/image-watermaking-python/blob/master/4.jpg?raw=true "Title")
